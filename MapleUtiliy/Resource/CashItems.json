@@ -1,0 +1,102 @@
+[
+    {
+        "name" : "메이플 로얄 스타일(45개)",
+        "price" : 99000,
+        "isUseMileage" : false        
+    },
+    {
+        "name" : "메이플 로얄 스타일(20개)",
+        "price" : 44000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "메이플 로얄 스타일(10개)",
+        "price" : 22000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "메이플 로얄 스타일",
+        "price" : 2200,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "프리미엄 마스터피스(10개)",
+        "price" : 19000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "프리미엄 마스터피스",
+        "price" : 1900,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "위습의 원더베리(11개)",
+        "price" : 54000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "위습의 원더베리",
+        "price" : 5400,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "루나 크리스탈",
+        "price" : 3900,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "블랙 더블식스팩",
+        "price" : 19800,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "블랙 큐브",
+        "price" : 2200,
+        "isUseMileage" : true
+    },
+    {
+        "name" : "골드 에디셔널 큐브 세트",
+        "price" : 18900,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "에디셔널 큐브",
+        "price" : 2400,
+        "isUseMileage" : true
+    },
+    {
+        "name" : "레드 더블식스팩",
+        "price" : 10800,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "레드 큐브",
+        "price" : 1200,
+        "isUseMileage" : true
+    },
+    {
+        "name" : "플래티넘 카르마의 가위",
+        "price" : 5900,
+        "isUseMileage" : true
+    },
+    {
+        "name" : "골드애플(100개)",
+        "price" : 48000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "골드애플(50개)",
+        "price" : 25000,
+        "isUseMileage" : false
+    },
+    {
+        "name" : "로얄 헤어쿠폰",
+        "price" : 5500,
+        "isUseMileage" : true
+    },
+    {
+        "name" : "로얄 성형외과 쿠폰",
+        "price" : 3500,
+        "isUseMileage" : true
+    }
+]
